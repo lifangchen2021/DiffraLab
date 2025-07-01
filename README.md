@@ -34,7 +34,7 @@ A Python educational platform (DiffraLab) integrating BraggIt (Monte Carlo powde
 ### Install and Run
 
 ```bash
-git clone https://github.com/<your_username>/DiffraLab.git
+git clone https://github.com/lifangchen2021/DiffraLab.git
 cd DiffraLab
 
 # Install dependencies
@@ -69,8 +69,11 @@ Below are brief operation steps with screenshots to help you get started quickly
 
 ### 1️⃣ BraggIt - Powder Diffraction Simulation
 
-- Simulate powder diffraction patterns with different lattice parameters and wavelengths.
-- Visualize diffraction peaks and relative intensities for learning Bragg's Law.
+- Simulates powder diffraction patterns with customizable lattice parameters and wavelengths.
+- Utilizes **Monte Carlo methods to generate diffraction patterns for cubic crystal systems (e.g., FCC, BCC)**.
+- Supports input of different particle numbers and calculation times, with **animated visualization of the diffraction pattern generation process**, helping students understand virtual experiments and diffraction statistics.
+- **Enables export of diffraction plots and 2θ-intensity data in Excel format**, allowing students to calculate peak resolution and perform Gaussian fitting analysis.
+- Visualizes diffraction peaks and relative intensities to facilitate learning of Bragg's Law and the principles of powder diffraction.
 
 ![BraggIt](images/BraggIt_demo.png)
 
@@ -78,8 +81,11 @@ Below are brief operation steps with screenshots to help you get started quickly
 
 ### 2️⃣ ResoFox - Instrumental Resolution Calculator
 
-- Compute the instrumental resolution function of a neutron diffractometer based on the Caglioti model.
-- Adjust collimator divergence and monochromator parameters to visualize FWHM changes.
+- Calculates the instrumental resolution function of neutron diffractometers based on the **Caglioti model**.
+- Allows adjustment of collimator divergence and monochromator parameters to **visualize FWHM variations** under different conditions.
+- **Supports exporting plots for comparison of results under different parameter settings**, helping students analyze how instrument configurations affect resolution.
+- The console prints **detailed theoretical calculation data**, including relative neutron intensities, theoretical diffraction angles, FWHM, and resolution values for each setting, allowing in-depth analysis and validation.
+- For a **more detailed tutorial and validation results**, please refer to the following repository: [https://github.com/lifangchen2021/ResoFox](https://github.com/lifangchen2021/ResoFox)
 
 ![ResoFox](images/ResoFox_demo.png)
 
@@ -87,8 +93,9 @@ Below are brief operation steps with screenshots to help you get started quickly
 
 ### 3️⃣ G-Fitter - Multi-peak Gaussian Fitting
 
-- Perform multi-peak Gaussian fitting on simulated or experimental diffraction data.
-- Extract peak positions and FWHM for analysis and reporting.
+- Performs **multi-peak Gaussian fitting on simulated or experimental diffraction data**.
+- Extracts peak positions and FWHM values for analysis and reporting.
+- By clicking the **"Select File" button**, users can select the Excel file exported from BraggIt and **directly perform Gaussian fitting on the simulated diffraction results**.
 
 ![GFitter](images/GFitter_demo.png)
 
