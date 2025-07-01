@@ -63,8 +63,35 @@ DiffraLab/
 └── requirements.txt
 ```
 ---
-## 🖼️ Screenshots
-(You can add screenshots here to show each module in action.)
+## 🖥️ Quick Usage and Demonstration
+
+Below are brief operation steps with screenshots to help you get started quickly:
+
+### 1️⃣ BraggIt - Powder Diffraction Simulation
+
+- Simulate powder diffraction patterns with different lattice parameters and wavelengths.
+- Visualize diffraction peaks and relative intensities for learning Bragg's Law.
+
+![BraggIt](images/BraggIt_demo.png)
+
+---
+
+### 2️⃣ ResoFox - Instrumental Resolution Calculator
+
+- Compute the instrumental resolution function of a neutron diffractometer based on the Caglioti model.
+- Adjust collimator divergence and monochromator parameters to visualize FWHM changes.
+
+![ResoFox](images/ResoFox_demo.png)
+
+---
+
+### 3️⃣ G-Fitter - Multi-peak Gaussian Fitting
+
+- Perform multi-peak Gaussian fitting on simulated or experimental diffraction data.
+- Extract peak positions and FWHM for analysis and reporting.
+
+![GFitter](images/GFitter_demo.png)
+
 
 ---
 ## 📘 Documentation
