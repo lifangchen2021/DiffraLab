@@ -109,6 +109,25 @@ A complete tutorial is available:
 This tutorial guides instructors and students on using DiffraLab effectively in class or lab courses.
 
 ---
+## 🚀 Download DiffraLab Executable
+
+We provide a **Windows executable of DiffraLab** for instructors, students, and researchers interested in neutron diffraction, monochromator wavelength selection, and resolution simulation.
+
+### 📥 Download
+
+- [Download DiffraLab for Windows (DiffraLab.exe)](https://github.com/lifangchen2021/DiffaLab/releases/download/V1.0.0/DiffraLab.v1.0.0.exe)
+
+If your browser blocks the download, please right-click the link and choose “Save link as” to download.
+
+### ⚠️ Note
+
+- You may see a Windows Defender or antivirus warning. If you downloaded the file directly from this repository, it is safe to allow execution.
+- This software is provided for **educational and research purposes only**, not for commercial use.
+- If you encounter issues or have suggestions, feel free to open an Issue or Pull Request in this repository.
+
+For tutorials and usage instructions, please refer to the **Tutorial section described in the repository structure above**.
+
+---
 
 ## 📝 Citation
 If you use DiffraLab in your teaching, publication, or project, please cite:
