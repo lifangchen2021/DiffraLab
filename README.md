@@ -104,7 +104,7 @@ Below are brief operation steps with screenshots to help you get started quickly
 ## 📘 Documentation
 A complete tutorial is available:
 
-📄 [中文教程：Exploring Diffraction and Instrumental Resolution with DiffraLab](docs/教程_Exploring Diffraction and Instrumental Resolution with DiffraLab_中文_v2.docx)
+📄 [Tutorial：Exploring Diffraction and Instrumental Resolution with DiffraLab](docs/Tutorial_Exploring Diffraction and Instrumental Resolution with DiffraLab_En.docx)
 
 This tutorial guides instructors and students on using DiffraLab effectively in class or lab courses.
 
