@@ -110,7 +110,7 @@ Below are brief operation steps with screenshots to help you get started quickly
 ## 📘 Documentation
 A complete tutorial is available:
 
-📄 [Tutorial：Exploring Diffraction and Instrumental Resolution with DiffraLab](https://github.com/lifangchen2021/DiffaLab/raw/main/docs/Tutorial_Exploring_Diffraction_and_Instrumental_Resolution_with_DiffraLab_En.docx)
+📄📄 [Download: Exploring Diffraction and Instrumental Resolution with DiffraLab (Word)](https://github.com/lifangchen2021/DiffaLab/raw/main/docs/Tutorial_Exploring_Diffraction_and_Instrumental_Resolution_with_DiffraLab_En.docx)
 
 This tutorial guides instructors and students on using DiffraLab effectively in class or lab courses.
 
