@@ -140,7 +140,9 @@ If you are a **student who downloads and uses DiffraLab for self-learning**, we 
 
 You can access the questionnaire here:
 
-- [DiffraLab Student Self-Learning Questionnaire](https://github.com/lifangchen2021/DiffaLab/docs/DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_En.docx)
+
+- [DiffraLab Student Self-Learning Questionnaire](https://github.com/lifangchen2021/DiffaLab/raw/main/docs/DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_En.docx)
+
 
 We would greatly appreciate it if you could share your feedback with us by submitting the questionnaire after you complete your learning activity using DiffraLab.
 
