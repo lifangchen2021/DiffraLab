@@ -49,10 +49,10 @@ python src/DiffraLab.py
 ```
 DiffraLab/
 ├── docs/           # Tutorial and supporting documents
-│   ├── Tutorial_Exploring Diffraction and Instrumental Resolution with DiffraLab_中文.docx
-│   ├── Tutorial_Exploring Diffraction and Instrumental Resolution with DiffraLab_En.docx
-│   ├── DiffraLab Diffraction Simulation Course Likert Scale Questionnaire_中文.docx
-│   └── DiffraLab Diffraction Simulation Course Likert Scale Questionnaire_En.docx
+│   ├── Tutorial_Exploring_Diffraction_and_Instrumental_Resolution_with_DiffraLab_中文.docx
+│   ├── Tutorial_Exploring_Diffraction_and_Instrumental_Resolution_with_DiffraLab_En.docx
+│   ├── DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_中文.docx
+│   └── DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_En.docx
 ├── images/         # Mascot and GUI screenshots
 │   ├── DiffraLab1.png
 │   ├── BraggIt_demo.png
@@ -140,7 +140,7 @@ If you are a **student who downloads and uses DiffraLab for self-learning**, we 
 
 You can access the questionnaire here:
 
-- [DiffraLab Student Self-Learning Questionnaire](https://github.com/lifangchen2021/DiffaLab/docs/DiffraLab Diffraction Simulation Course Likert Scale Questionnaire_En.docx)
+- [DiffraLab Student Self-Learning Questionnaire](https://github.com/lifangchen2021/DiffaLab/docs/DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_En.docx)
 
 We would greatly appreciate it if you could share your feedback with us by submitting the questionnaire after you complete your learning activity using DiffraLab.
 
