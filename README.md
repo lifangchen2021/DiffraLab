@@ -49,7 +49,10 @@ python src/DiffraLab.py
 ```
 DiffraLab/
 ├── docs/           # Tutorial and supporting documents
-│   └── 教程_Exploring Diffraction and Instrumental Resolution with DiffraLab_中文_v2.docx
+│   ├── Tutorial_Exploring Diffraction and Instrumental Resolution with DiffraLab_中文.docx
+│   ├── Tutorial_Exploring Diffraction and Instrumental Resolution with DiffraLab_En.docx
+│   ├── DiffraLab Diffraction Simulation Course Likert Scale Questionnaire_中文.docx
+│   └── DiffraLab Diffraction Simulation Course Likert Scale Questionnaire_En.docx
 ├── images/         # Mascot and GUI screenshots
 │   └── DiffraLab1.png
 ├── src/            # Main Python source files
