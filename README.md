@@ -5,13 +5,13 @@
 
 <br>
 
-<p style="font-size:16px"><em>
+<p style="font-size:18px"><em>
 Let us consider every interaction between people as a part of education—<br>
 for it is through life experiences and the support of those around us<br>
 that I have been shaped into who I am today.
 </em></p>
 
-<p style="font-size:16px"><em>
+<p style="font-size:18px"><em>
 I sincerely hope to contribute, in my humble capacity,<br>
 to helping others feel the beauty of science—<br>
 to understand that the continuation of knowledge transcends time and space.
