@@ -1,5 +1,7 @@
-> *“Education is not the filling of a vessel, but the kindling of a flame.”*  
-> *— Plato*
+<div align="center">
+
+*“Education is not the filling of a vessel, but the kindling of a flame.”*  
+*— Plato*
 
 *Let us consider every interaction between people as a part of education—  
 for it is through life experiences and the support of those around us  
@@ -22,7 +24,10 @@ And the coil that generates the mutual effect—that is education.*
 *I hope, in my lifetime, I may help ignite the inner flame in others,  
 and help them feel this simple truth:*
 
-> ***Science is a quiet beauty that happens around us, at every moment.***
+**_Science is a quiet beauty that happens around us, at every moment._**
+
+</div>
+
 
 ---
 
