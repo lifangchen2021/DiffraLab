@@ -1,47 +1,32 @@
 <div align="center">
 
-<h4><em>“Education is not the filling of a vessel, but the kindling of a flame.”</em></h4>
-<p><em>— Plato</em></p>
+*“Education is not the filling of a vessel, but the kindling of a flame.”*  
+*— Plato*
 
-<br>
+*Let us consider every interaction between people as a part of education—  
+for it is through life experiences and the support of those around us  
+that I have been shaped into who I am today.*
 
-<p style="font-size:18px"><em>
-Let us consider every interaction between people as a part of education—<br>
-for it is through life experiences and the support of those around us<br>
-that I have been shaped into who I am today.
-</em></p>
+*I sincerely hope to contribute, in my humble capacity,  
+to helping others feel the beauty of science—  
+to understand that the continuation of knowledge transcends time and space.*
 
-<p style="font-size:18px"><em>
-I sincerely hope to contribute, in my humble capacity,<br>
-to helping others feel the beauty of science—<br>
-to understand that the continuation of knowledge transcends time and space.
-</em></p>
+*Just like in the quiet of night, if you are willing to look up at the stars,  
+what you see is the unimaginable distance of tens of thousands of light-years.*
 
-<p style="font-size:16px"><em>
-Just like in the quiet of night, if you are willing to look up at the stars,<br>
-what you see is the unimaginable distance of tens of thousands of light-years.
-</em></p>
+*So let us reinterpret the Zen koan of the flapping banner:  
+it is not just the wind that moves, nor the banner—but the mind of the observer.*
 
-<p style="font-size:16px"><em>
-So let us reinterpret the Zen koan of the flapping banner:<br>
-it is not just the wind that moves, nor the banner—but the mind of the observer.
-</em></p>
+*Science and the humanities are not opposites.  
+They are like a system of electromagnetic induction.  
+And the coil that generates the mutual effect—that is education.*
 
-<p style="font-size:16px"><em>
-Science and the humanities are not opposites.<br>
-They are like a system of electromagnetic induction.<br>
-And the coil that generates the mutual effect—that is education.
-</em></p>
+*I hope, in my lifetime, I may help ignite the inner flame in others,  
+and help them feel this simple truth:*
 
-<p style="font-size:16px"><em>
-I hope, in my lifetime, I may help ignite the inner flame in others,<br>
-and help them feel this simple truth:
-</em></p>
-
-<h4><em><strong>Science is a quiet beauty that happens around us, at every moment.</strong></em></h4>
+**_Science is a quiet beauty that happens around us, at every moment._**
 
 </div>
-
 
 
 ---
