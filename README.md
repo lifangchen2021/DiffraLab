@@ -1,27 +1,29 @@
-> “Education is not the filling of a vessel, but the kindling of a flame.”  
-> — Plato
+> *“Education is not the filling of a vessel, but the kindling of a flame.”*  
+> *— Plato*
 
-Let us consider every interaction between people as a part of education—  
+*Let us consider every interaction between people as a part of education—  
 for it is through life experiences and the support of those around us  
-that I have been shaped into who I am today.
+that I have been shaped into who I am today.*
 
-I sincerely hope to contribute, in my humble capacity,  
+*I sincerely hope to contribute, in my humble capacity,  
 to helping others feel the beauty of science—  
-to understand that the continuation of knowledge transcends time and space.
+to understand that the continuation of knowledge transcends time and space.*
 
-Just like in the quiet of night, if you are willing to look up at the stars,  
-what you see is the unimaginable distance of tens of thousands of light-years.
+*Just like in the quiet of night, if you are willing to look up at the stars,  
+what you see is the unimaginable distance of tens of thousands of light-years.*
 
-So let us reinterpret the Zen koan of the flapping banner:  
-it is not just the wind that moves, nor the banner—but the mind of the observer.
+*So let us reinterpret the Zen koan of the flapping banner:  
+it is not just the wind that moves, nor the banner—but the mind of the observer.*
 
-Science and the humanities are not opposites.  
+*Science and the humanities are not opposites.  
 They are like a system of electromagnetic induction.  
-And the coil that generates the mutual effect—that is education.
+And the coil that generates the mutual effect—that is education.*
 
-I hope, in my lifetime, I may help ignite the inner flame in others,  
-and help them feel this simple truth:  
-> **Science is a quiet beauty that happens around us, at every moment.**
+*I hope, in my lifetime, I may help ignite the inner flame in others,  
+and help them feel this simple truth:*
+
+> ***Science is a quiet beauty that happens around us, at every moment.***
+
 ---
 
 # DiffaLab
