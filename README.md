@@ -1,5 +1,6 @@
 > “Education is not the filling of a vessel, but the kindling of a flame.”  
 > — Plato
+
 Let us consider every interaction between people as a part of education—  
 for it is through life experiences and the support of those around us  
 that I have been shaped into who I am today.
