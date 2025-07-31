@@ -1,30 +1,35 @@
 <div align="center">
 
-*“Education is not the filling of a vessel, but the kindling of a flame.”*  
-*— Plato*
+*“The mind is not a vessel that needs filling, but a fire to be kindled.”*  
+*— Plutarch*
 
-*Let us consider every interaction between people as a part of education—  
-for it is through life experiences and the support of those around us  
-that I have been shaped into who I am today.*
+*Yes,  
+perhaps we can consider all human interactions  
+as a part of education.  
+That is why I am who I am.*  
 
-*I sincerely hope to contribute, in my humble capacity,  
-to helping others feel the beauty of science—  
-to understand that the continuation of knowledge transcends time and space.*
+*I sincerely hope to offer even the slightest contribution,  
+to let others feel the beauty of science,  
+to understand that the continuity of knowledge transcends time and space—  
+just like at night, if you are willing to lift your eyes and gaze upon the distant stars,  
+what you see is the unimaginable, spanning tens of thousands of light-years.*
 
-*Just like in the quiet of night, if you are willing to look up at the stars,  
-what you see is the unimaginable distance of tens of thousands of light-years.*
+*So let us try to reinterpret  
+the Zen kōan of the moving wind and the fluttering banner—  
+It is the wind that moves,  
+it is the banner that moves,  
+but more so, it is the heart of the observer that moves.  
+It depends on which frame of reference you use to explain it.  
+It depends on whether you view it from a humanistic or scientific perspective.  
+But science and the humanities have never been a binary opposition;  
+they are a system of mutual electromagnetic induction.  
+And the coil that enables such induction to occur—  
+is education.*
 
-*So let us reinterpret the Zen koan of the flapping banner:  
-it is not just the wind that moves, nor the banner—but the mind of the observer.*
-
-*Science and the humanities are not opposites.  
-They are like a system of electromagnetic induction.  
-And the coil that generates the mutual effect—that is education.*
-
-*I hope, in my lifetime, I may help ignite the inner flame in others,  
-and help them feel this simple truth:*
-
-**_Science is a quiet beauty that happens around us, at every moment._**
+*In my lifetime,  
+I wish to ignite the inner flame in others,  
+so they may feel—  
+that science is a beauty happening all around us, all the time.*
 
 </div>
 
