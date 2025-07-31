@@ -1,8 +1,16 @@
 <div align="center">
+  
+# *Essay*
+</div>
 
+<div align="right">
+  
 *“The mind is not a vessel that needs filling, but a fire to be kindled.”*  
 *— Plutarch*
+</div>
 
+<div align="center">
+  
 *Yes,  
 perhaps we can consider all human interactions  
 as a part of education.  
