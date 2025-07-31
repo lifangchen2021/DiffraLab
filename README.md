@@ -44,7 +44,7 @@ that science is a beauty happening all around us, all the time.*
 
 ---
 
-# DiffaLab
+# DiffraLab
 ![DiffraLab Mascot](images/DiffraLab1.png)
 
 A Python educational platform (DiffraLab) integrating BraggIt (Monte Carlo powder diffraction), ResoFox (instrumental resolution calculator), and G-Fitter (multi-peak Gaussian fitting) for neutron and X-ray diffraction simulation and analysis in physics education.
