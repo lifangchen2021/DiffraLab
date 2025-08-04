@@ -52,10 +52,10 @@ python src/DiffraLab.py
 ```
 DiffraLab/
 ├── docs/           # Tutorial and supporting documents
-│   ├── Tutorial_Exploring_Diffraction_and_Instrumental_Resolution_with_DiffraLab_中文.docx
-│   ├── Tutorial_Exploring_Diffraction_and_Instrumental_Resolution_with_DiffraLab_En.docx
-│   ├── DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_中文.docx
-│   └── DiffraLab_Diffraction_Simulation_Course_Likert_Scale_Questionnaire_En.docx
+│   ├── DiffraLab Hands-On Teaching Design.docx
+│   ├── DiffraLab Hands-On Teaching Design.pdf
+│   ├── DiffraLab 實作型教學設計手冊.docx
+│   └── DiffraLab 實作型教學設計手冊.pdf
 ├── images/         # Mascot and GUI screenshots
 │   ├── DiffraLab1.png
 │   ├── BraggIt_demo.png
