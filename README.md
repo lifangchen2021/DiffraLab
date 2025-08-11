@@ -181,15 +181,15 @@ For more details, please see the [license details here](https://creativecommons.
 
 ---
 ## Author & Contact
-**Ms. Li-Fang Chen**
-Science Teaching Materials Development
-📧 Email: lifangchen0507@gmail.com
+**Ms. Li-Fang Chen**  
+Science Teaching Materials Development  
+📧 Email: lifangchen0507@gmail.com  
 
 
 **Dr. Yu-Lim Chen**  
 Science Education Methodology Research & Gifted Education   
 🌐 Website:  
-📧 Email: 
+📧 Email:  
 🔬 ResearchGate:  
 
 ---
