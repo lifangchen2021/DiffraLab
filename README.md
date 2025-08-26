@@ -190,8 +190,8 @@ Science Teaching Materials Development
 **Dr. Yu-Lim Chen**  
 Science Education Methodology Research & Gifted Education   
 🌐 Website:  
-📧 Email:  
-🔬 ResearchGate:  
+📧 Email:  chendaneyl@ntnu.edu.tw  
+🔬 ORCID:  https://orcid.org/0000-0003-3128-8759  
 
 ---
 
