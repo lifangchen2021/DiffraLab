@@ -138,6 +138,7 @@ If your browser blocks the download, please right-click the link and choose “S
 For tutorials and usage instructions, please refer to the **Tutorial section described in the repository structure above**.
 
 ---
+<!--
 ## 📝 Student Self-Learning Questionnaire
 
 If you are a **student who downloads and uses DiffraLab for self-learning**, we invite you to fill out a short questionnaire to help us improve this tool and understand its impact in teaching and learning.
@@ -157,7 +158,7 @@ If you prefer, you can also email your completed questionnaire or feedback to us
 📧 lifangchen0507@gmail.com
 
 Your responses will help us improve future versions of DiffraLab and support our educational research.
-
+-->
 ---
 
 ## 📝 Citation
