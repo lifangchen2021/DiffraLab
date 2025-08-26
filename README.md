@@ -185,11 +185,11 @@ For more details, please see the [license details here](https://creativecommons.
 **Ms. Li-Fang Chen**  
 Science Teaching Materials Development  
 📧 Email: lifangchen0507@gmail.com  
-
+🔬 ORCID:  [https://orcid.org/0009-0007-0352-735X](https://orcid.org/0009-0007-0352-735X)
 
 **Dr. Yu-Lim Chen**  
 Science Education Methodology Research & Gifted Education   
-🌐 Website:  
+🌐 Website:  https://scholar.lib.ntnu.edu.tw/en/persons/yu-lim-chen-2  
 📧 Email:  chendaneyl@ntnu.edu.tw  
 🔬 ORCID:  https://orcid.org/0000-0003-3128-8759  
 
