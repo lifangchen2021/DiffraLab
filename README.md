@@ -40,11 +40,6 @@ A Python educational platform (DiffraLab) integrating BraggIt (Monte Carlo powde
 git clone https://github.com/lifangchen2021/DiffraLab.git
 cd DiffraLab
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the GUI
-python src/DiffraLab.py
 ```
 ---
 
