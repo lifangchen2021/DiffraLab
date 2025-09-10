@@ -157,10 +157,10 @@ Your responses will help us improve future versions of DiffraLab and support our
 ---
 
 ## 📝 Citation
-If you use DiffraLab in your teaching, publication, or project, please cite:
+If you use DiffraLab in your teaching, publication, or project, please cite:   
 
-Chen, L. F., & Chen, Y.-L. (2025). DiffraLab: An Interactive Simulation Platform for Exploring Neutron and X-ray Diffraction Principles in Undergraduate Education. GitHub. https://github.com/lifangchen2021/DiffraLab
-
+Chen, L. F., & Chen, Y. L. (2025). DiffraLab: An interactive simulation platform for exploring neutron and X-ray diffraction principles in undergraduate education [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.17082116   
+  
 ---
 
 ## 📜 License
