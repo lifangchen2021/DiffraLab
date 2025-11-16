@@ -224,36 +224,6 @@ def BraggItFrame(parent):
         if filename:
             figure.savefig(filename, dpi=300)
             
-#    def export_binned_data_to_excel():
-#        if not all_count:
-#            tk.messagebox.showinfo("Notice", "Please run the simulation first!")
-#            return
-
-        # Flatten all_count into a single list
-#        all_count_2 = [p for grp in all_count for p in grp]
-
-        # Reconstruct bins
-#        angles = [i / 10 for i in range(1800)]  # 0 ~ 180，間距 0.1°
-#        intensities = [
-#            sum(inten for (ang_val, inten) in all_count_2 if ang < ang_val <= ang + 0.1)
-#            for ang in angles
-#        ]
-
-        # Create DataFrame and export
-#        df = pd.DataFrame({
-#            "2θ (degrees)": angles,
-#            "Intensity": intensities
-#        })
-
-#        file_path = filedialog.asksaveasfilename(
-#            defaultextension=".xlsx",
-#            filetypes=[("Excel files", "*.xlsx")],
-#            title="Export Diffraction Data"
-#        )
-
-#        if file_path:
-#            df.to_excel(file_path, index=False)
-#            tk.messagebox.showinfo("Success", f"Diffraction data has been saved to:\n{file_path}")
     
     def export_binned_data_to_excel():
         if not all_count:
