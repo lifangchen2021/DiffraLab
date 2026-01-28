@@ -190,6 +190,20 @@ Science Education Methodology Research & Gifted Education
 🔬 ORCID:  https://orcid.org/0000-0003-3128-8759  
 
 ---
+## 🎉 Publication Announcement 
+
+We are pleased to announce that the research and pedagogical framework behind DiffraLab has been officially published in the European Journal of Physics.
+
+This publication validates the platform’s dual-modeling approach as an effective tool for enhancing undergraduate understanding of neutron and X-ray diffraction principles through interactive exploration.
+
+**Citation and DOI**  
+- **Title:** *DiffraLab: An interactive dual-modeling platform for exploring neutron and X-ray diffraction principles in undergraduate education*  
+- **Journal:** European Journal of Physics
+- **Publication Date:** 2026-01-27
+- **DOI:** https://doi.org/10.1088/1361-6404/ae3e2e
+
+---
+
 
 ## 🤝 Contributions
 Contributions to extend the tool, add educational modules, or support additional diffraction analysis are welcome. Please open an issue or pull request if you wish to contribute.
