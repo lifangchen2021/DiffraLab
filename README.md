@@ -178,7 +178,7 @@ For more details, please see the [license details here](https://creativecommons.
 
 ---
 ## Author & Contact
-**Ms. Li-Fang Chen**  
+**Dr. Li-Fang Chen**  
 Science Teaching Materials Development  
 📧 Email: lifangchen0507@gmail.com  
 🔬 ORCID:  [https://orcid.org/0009-0007-0352-735X](https://orcid.org/0009-0007-0352-735X)
